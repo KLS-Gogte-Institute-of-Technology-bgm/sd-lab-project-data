@@ -1,7 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=288835&assignment_repo_type=GroupAssignmentRepo)
 # Android Based Visual Product Identification 
 
-## About
+## Proposal
 -This project aims to make the life of blind people easy. 
 -This is a camera based system to scan the barcode behind the image and read the description of the product with the help of Id stored in the barcode. 
 -This is very beneficial in case of finding out the description of packaged goods to the blind people and thus helping them in deciding to purchase a product or not especially which are packaged. 
